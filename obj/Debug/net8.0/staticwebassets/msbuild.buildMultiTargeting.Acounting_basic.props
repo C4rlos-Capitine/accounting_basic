@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Acounting_basic.props" />
+</Project>
