@@ -46,7 +46,13 @@ namespace Acounting_basic.Controllers
         // GET: Transacaos/Create
         public IActionResult Create()
         {
+            // Carrega listas de clientes e fornecedores para o dropdown
+            ViewBag.Clientes = new SelectList(_context.Clientes, "Id", "Nome");
+            ViewBag.Fornecedores = new SelectList(_context.Fornecedores, "Id", "Nome");
+            ViewBag.Contas = new SelectList(_context.Contas, "Id", "Nome");
+
             return View();
+      
         }
 
         // POST: Transacaos/Create

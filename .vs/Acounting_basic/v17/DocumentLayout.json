@@ -3,6 +3,98 @@
   "WorkspaceRootPath": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\acounting_basic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:acounting_basic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\transacaos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\transacaos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\transacaos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\transacaos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\controllers\\transacaoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:controllers\\transacaoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\minhaempresas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\minhaempresas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\fornecedors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\fornecedors\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\contas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\contas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\fornecedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\fornecedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\meudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:meudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\controllers\\minhaempresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:controllers\\minhaempresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
@@ -19,24 +111,12 @@
       "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\data\\migrations\\20250522141127_tabelas_basicas_change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:data\\migrations\\20250522141127_tabelas_basicas_change.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:models\\transacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,16 +131,8 @@
       "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\transacaos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\transacaos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\minhaempresas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\minhaempresas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\fornecedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\fornecedors\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\contas\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -75,72 +147,32 @@
       "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\models\\minhaempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:models\\minhaempresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\controllers\\transacaoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:controllers\\transacaoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\controllers\\fornecedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:controllers\\fornecedorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\controllers\\minhaempresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:controllers\\minhaempresascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\controllers\\contascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:controllers\\contascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\meudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:meudbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\obj\\Debug\\net8.0\\Acounting_basic.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0\\Acounting_basic.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\acounting_basic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:acounting_basic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|c:\\users\\falcao\\source\\repos\\acounting_basic\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8BE6EA51-C88A-425D-93A0-FC51D50FC5C0}|Acounting_basic.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -150,184 +182,89 @@
       "DocumentGroups": [
         {
           "DockedWidth": 564,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T14:49:27.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "serviceDependencies.json",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Properties\\serviceDependencies.json",
-              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Properties\\serviceDependencies.json",
-              "RelativeToolTip": "Properties\\serviceDependencies.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T14:49:31.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T07:37:25.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAgwBQAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T07:28:26.128Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "00000000000000_CreateIdentitySchema.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T11:39:59.425Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "20250522125811_Tabelas_basicas.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\Migrations\\20250522125811_Tabelas_basicas.cs",
-              "RelativeDocumentMoniker": "Data\\Migrations\\20250522125811_Tabelas_basicas.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\Migrations\\20250522125811_Tabelas_basicas.cs",
-              "RelativeToolTip": "Data\\Migrations\\20250522125811_Tabelas_basicas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:58:11.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T11:41:22.068Z",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T13:48:33.893Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "20250522141127_Tabelas_basicas_change.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\Migrations\\20250522141127_Tabelas_basicas_change.cs",
-              "RelativeDocumentMoniker": "Data\\Migrations\\20250522141127_Tabelas_basicas_change.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\Migrations\\20250522141127_Tabelas_basicas_change.cs",
-              "RelativeToolTip": "Data\\Migrations\\20250522141127_Tabelas_basicas_change.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T14:11:27.629Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Conta.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\Conta.cs",
-              "RelativeDocumentMoniker": "Models\\Conta.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\Conta.cs",
-              "RelativeToolTip": "Models\\Conta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:44:07.137Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\Cliente.cs",
-              "RelativeDocumentMoniker": "Models\\Cliente.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\Cliente.cs",
-              "RelativeToolTip": "Models\\Cliente.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:42:17.666Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Clientes\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Clientes\\Create.cshtml",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Clientes\\Create.cshtml",
-              "RelativeToolTip": "Views\\Clientes\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\MinhaEmpresas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\MinhaEmpresas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\MinhaEmpresas\\Index.cshtml",
+              "RelativeToolTip": "Views\\MinhaEmpresas\\Index.cshtml",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAAAEwAAABoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T13:09:20.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Transacaos\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Transacaos\\Create.cshtml",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Transacaos\\Create.cshtml",
-              "RelativeToolTip": "Views\\Transacaos\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T13:57:06.484Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Fornecedor.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\Fornecedor.cs",
-              "RelativeDocumentMoniker": "Models\\Fornecedor.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\Fornecedor.cs",
-              "RelativeToolTip": "Models\\Fornecedor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:43:19.434Z",
+              "WhenOpened": "2025-05-23T10:39:10.578Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Fornecedors\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fornecedors\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Fornecedors\\Index.cshtml",
+              "RelativeToolTip": "Views\\Fornecedors\\Index.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADQAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:25:33.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Contas\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Contas\\Index.cshtml",
+              "RelativeToolTip": "Views\\Contas\\Index.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:39:23.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Transacaos\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transacaos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Transacaos\\Index.cshtml",
+              "RelativeToolTip": "Views\\Transacaos\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAEYAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:42:11.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Transacaos\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Transacaos\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Transacaos\\Create.cshtml",
+              "RelativeToolTip": "Views\\Transacaos\\Create.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAkwCUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T13:57:06.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Transacao.cs",
               "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\Transacao.cs",
               "RelativeDocumentMoniker": "Models\\Transacao.cs",
@@ -340,98 +277,50 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ClientesController.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\ClientesController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\ClientesController.cs",
-              "RelativeToolTip": "Controllers\\ClientesController.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAiwE0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "TransacaosController.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\TransacaosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TransacaosController.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\TransacaosController.cs",
+              "RelativeToolTip": "Controllers\\TransacaosController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowDYAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:02:09.702Z",
+              "WhenOpened": "2025-05-22T13:03:38.055Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\MinhaEmpresas\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\MinhaEmpresas\\Create.cshtml",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\MinhaEmpresas\\Create.cshtml",
-              "RelativeToolTip": "Views\\MinhaEmpresas\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Acounting_basic.csproj",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Acounting_basic.csproj",
+              "RelativeDocumentMoniker": "Acounting_basic.csproj",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Acounting_basic.csproj",
+              "RelativeToolTip": "Acounting_basic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-22T09:10:03.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAkwCoAAACDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T14:03:02.547Z",
+              "WhenOpened": "2025-05-22T09:21:36.768Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Contas\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Contas\\Create.cshtml",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Contas\\Create.cshtml",
-              "RelativeToolTip": "Views\\Contas\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T13:56:54.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Fornecedors\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Fornecedors\\Create.cshtml",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Fornecedors\\Create.cshtml",
-              "RelativeToolTip": "Views\\Fornecedors\\Create.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T13:48:43.365Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Clientes\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Clientes\\Index.cshtml",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Clientes\\Index.cshtml",
-              "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T13:48:33.893Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "MinhaEmpresa.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\MinhaEmpresa.cs",
-              "RelativeDocumentMoniker": "Models\\MinhaEmpresa.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\MinhaEmpresa.cs",
-              "RelativeToolTip": "Models\\MinhaEmpresa.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T12:50:16.883Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Dockerfile",
-              "RelativeDocumentMoniker": "Dockerfile",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Dockerfile",
-              "RelativeToolTip": "Dockerfile",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-05-22T13:26:16.286Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
               "Title": "ApplicationDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
@@ -444,137 +333,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T09:21:36.768Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "FornecedorsController.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\FornecedorsController.cs",
-              "RelativeDocumentMoniker": "Controllers\\FornecedorsController.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\FornecedorsController.cs",
-              "RelativeToolTip": "Controllers\\FornecedorsController.cs",
-              "ViewState": "AgIAAIkAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:04:38.95Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "TransacaosController.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\TransacaosController.cs",
-              "RelativeDocumentMoniker": "Controllers\\TransacaosController.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\TransacaosController.cs",
-              "RelativeToolTip": "Controllers\\TransacaosController.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAwwC4AAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:03:38.055Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "MinhaEmpresasController.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\MinhaEmpresasController.cs",
-              "RelativeDocumentMoniker": "Controllers\\MinhaEmpresasController.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\MinhaEmpresasController.cs",
-              "RelativeToolTip": "Controllers\\MinhaEmpresasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:00:48.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ContasController.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\ContasController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ContasController.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\ContasController.cs",
-              "RelativeToolTip": "Controllers\\ContasController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:02:51.041Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "MeuDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\MeuDbContext.cs",
-              "RelativeDocumentMoniker": "MeuDbContext.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\MeuDbContext.cs",
-              "RelativeToolTip": "MeuDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T11:24:13.793Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-22T11:21:46.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 6,
               "Title": "_LoginPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
               "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Shared\\_LoginPartial.cshtml",
               "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-22T09:21:39.001Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "Acounting_basic.AssemblyInfo.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\obj\\Debug\\net8.0\\Acounting_basic.AssemblyInfo.cs",
-              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Acounting_basic.AssemblyInfo.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\obj\\Debug\\net8.0\\Acounting_basic.AssemblyInfo.cs",
-              "RelativeToolTip": "obj\\Debug\\net8.0\\Acounting_basic.AssemblyInfo.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA0AAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T09:09:46.955Z",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:11:25.175Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T07:34:45.238Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:23:50.939Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:23:48.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T10:24:01.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -587,20 +411,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "Acounting_basic",
-              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Acounting_basic.csproj",
-              "RelativeDocumentMoniker": "Acounting_basic.csproj",
-              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Acounting_basic.csproj",
-              "RelativeToolTip": "Acounting_basic.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-22T09:10:03.625Z",
+              "DocumentIndex": 18,
+              "Title": "MeuDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\MeuDbContext.cs",
+              "RelativeDocumentMoniker": "MeuDbContext.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\MeuDbContext.cs",
+              "RelativeToolTip": "MeuDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:24:13.793Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwBQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:28:26.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T07:37:25.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Fornecedors\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fornecedors\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Fornecedors\\Create.cshtml",
+              "RelativeToolTip": "Views\\Fornecedors\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T13:48:43.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -610,6 +473,261 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-22T07:31:15.63Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T14:49:31.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250522125811_Tabelas_basicas.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\Migrations\\20250522125811_Tabelas_basicas.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250522125811_Tabelas_basicas.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\Migrations\\20250522125811_Tabelas_basicas.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250522125811_Tabelas_basicas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:58:11.827Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:39:59.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "MinhaEmpresasController.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\MinhaEmpresasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MinhaEmpresasController.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\MinhaEmpresasController.cs",
+              "RelativeToolTip": "Controllers\\MinhaEmpresasController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:00:48.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-22T14:49:27.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T11:41:22.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250522141127_Tabelas_basicas_change.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\Migrations\\20250522141127_Tabelas_basicas_change.cs",
+              "RelativeDocumentMoniker": "Data\\Migrations\\20250522141127_Tabelas_basicas_change.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Data\\Migrations\\20250522141127_Tabelas_basicas_change.cs",
+              "RelativeToolTip": "Data\\Migrations\\20250522141127_Tabelas_basicas_change.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T14:11:27.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\Conta.cs",
+              "RelativeDocumentMoniker": "Models\\Conta.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\Conta.cs",
+              "RelativeToolTip": "Models\\Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:44:07.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:42:17.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T13:09:20.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\Fornecedor.cs",
+              "RelativeDocumentMoniker": "Models\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\Fornecedor.cs",
+              "RelativeToolTip": "Models\\Fornecedor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:43:19.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwE0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:02:09.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\MinhaEmpresas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\MinhaEmpresas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\MinhaEmpresas\\Create.cshtml",
+              "RelativeToolTip": "Views\\MinhaEmpresas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T14:03:02.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Contas\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Contas\\Create.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Views\\Contas\\Create.cshtml",
+              "RelativeToolTip": "Views\\Contas\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T13:56:54.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MinhaEmpresa.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\MinhaEmpresa.cs",
+              "RelativeDocumentMoniker": "Models\\MinhaEmpresa.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\MinhaEmpresa.cs",
+              "RelativeToolTip": "Models\\MinhaEmpresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T12:50:16.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-22T13:26:16.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "FornecedorsController.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\FornecedorsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FornecedorsController.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\FornecedorsController.cs",
+              "RelativeToolTip": "Controllers\\FornecedorsController.cs",
+              "ViewState": "AgIAAIkAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:04:38.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ContasController.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\ContasController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ContasController.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Controllers\\ContasController.cs",
+              "RelativeToolTip": "Controllers\\ContasController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T13:02:51.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-22T11:21:46.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Acounting_basic.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\obj\\Debug\\net8.0\\Acounting_basic.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0\\Acounting_basic.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\obj\\Debug\\net8.0\\Acounting_basic.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0\\Acounting_basic.AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T09:09:46.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\FALCAO\\source\\repos\\Acounting_basic\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-22T07:34:45.238Z"
             }
           ]
         },

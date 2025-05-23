@@ -279,3 +279,4 @@ C:\Users\FALCAO\source\repos\Acounting_basic\bin\Debug\net8.0\runtimes\win\lib\n
 C:\Users\FALCAO\source\repos\Acounting_basic\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Drawing.Common.dll
 C:\Users\FALCAO\source\repos\Acounting_basic\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\FALCAO\source\repos\Acounting_basic\bin\Debug\net8.0\runtimes\win\lib\net7.0\System.Windows.Extensions.dll
+C:\Users\FALCAO\source\repos\Acounting_basic\obj\Debug\net8.0\Acounting_basic.sourcelink.json
