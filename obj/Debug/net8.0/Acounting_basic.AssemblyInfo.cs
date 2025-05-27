@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Acounting_basic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c32ba3a827f3afdff209375eeb8caa644571be70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5e35920da8dba3f0ae26b004dfbceb446b41af00")]
 [assembly: System.Reflection.AssemblyProductAttribute("Acounting_basic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Acounting_basic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
