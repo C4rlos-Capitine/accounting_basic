@@ -22,6 +22,26 @@ namespace Acounting_basic.Data.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
+            modelBuilder.Entity("Acounting_basic.Models.ClassConta", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Descricao")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<int>("num_ordem")
+                        .HasColumnType("int");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("classes");
+                });
+
             modelBuilder.Entity("Acounting_basic.Models.Cliente", b =>
                 {
                     b.Property<int>("Id")
@@ -66,11 +86,12 @@ namespace Acounting_basic.Data.Migrations
                     b.Property<decimal>("Saldo_Atual")
                         .HasColumnType("decimal(18,2)");
 
-                    b.Property<string>("Tipo")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
+                    b.Property<int>("tipo_contaId")
+                        .HasColumnType("int");
 
                     b.HasKey("Id");
+
+                    b.HasIndex("tipo_contaId");
 
                     b.ToTable("Contas");
                 });
@@ -147,6 +168,23 @@ namespace Acounting_basic.Data.Migrations
                     b.HasKey("Id");
 
                     b.ToTable("minhaEmpresas");
+                });
+
+            modelBuilder.Entity("Acounting_basic.Models.TipoConta", b =>
+                {
+                    b.Property<int>("Id")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
+
+                    b.Property<string>("Descricao")
+                        .IsRequired()
+                        .HasColumnType("nvarchar(max)");
+
+                    b.HasKey("Id");
+
+                    b.ToTable("tipoContas");
                 });
 
             modelBuilder.Entity("Acounting_basic.Models.Transacao", b =>
@@ -400,6 +438,17 @@ namespace Acounting_basic.Data.Migrations
                     b.HasKey("UserId", "LoginProvider", "Name");
 
                     b.ToTable("AspNetUserTokens", (string)null);
+                });
+
+            modelBuilder.Entity("Acounting_basic.Models.Conta", b =>
+                {
+                    b.HasOne("Acounting_basic.Models.TipoConta", "tipo_conta")
+                        .WithMany()
+                        .HasForeignKey("tipo_contaId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.Navigation("tipo_conta");
                 });
 
             modelBuilder.Entity("Acounting_basic.Models.Transacao", b =>

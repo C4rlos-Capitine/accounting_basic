@@ -1,7 +1,8 @@
 ﻿@model IEnumerable<Acounting_basic.Models.Conta>
 
 @{
-    ViewData["Title"] = "Index";
+    ViewData["Title"] = "Contas";
+    Layout = "_PrivateLayout";
 }
 
 <h1>Index</h1>
@@ -22,7 +23,7 @@
                 @Html.DisplayNameFor(model => model.Nome)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.Tipo)
+                @Html.DisplayNameFor(model => model.tipo_conta)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.Saldo_Atual)
@@ -37,7 +38,7 @@
                 @Html.DisplayFor(modelItem => item.Nome)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.Tipo)
+                    @Html.DisplayFor(modelItem => item.tipo_conta)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.Saldo_Atual)

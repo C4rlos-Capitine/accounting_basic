@@ -11,11 +11,13 @@ namespace Acounting_basic.Data
         public DbSet<Cliente> Clientes { get; set; }
         public DbSet<Fornecedor> Fornecedores { get; set; }
         public DbSet<MinhaEmpresa> minhaEmpresas { get; set; }
-        // public DbSet<Relatorio> Relatorios { get; set; }
+        public DbSet<TipoConta> tipoContas { get; set; }
+        public DbSet<ClassConta> classes { get; set; }
         public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
         {
           
         }
+      
     }
 }
